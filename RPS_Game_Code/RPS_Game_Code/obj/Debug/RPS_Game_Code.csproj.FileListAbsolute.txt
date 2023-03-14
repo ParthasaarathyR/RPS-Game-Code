@@ -1,1 +1,6 @@
 E:\Visual Studio\Git Projects\RPS_Game_Code\RPS_Game_Code\RPS_Game_Code\bin\Debug\RPS_Game_Code.exe.config
+E:\Visual Studio\Git Projects\RPS_Game_Code\RPS_Game_Code\RPS_Game_Code\bin\Debug\RPS_Game_Code.exe
+E:\Visual Studio\Git Projects\RPS_Game_Code\RPS_Game_Code\RPS_Game_Code\bin\Debug\RPS_Game_Code.pdb
+E:\Visual Studio\Git Projects\RPS_Game_Code\RPS_Game_Code\RPS_Game_Code\obj\Debug\RPS_Game_Code.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Git Projects\RPS_Game_Code\RPS_Game_Code\RPS_Game_Code\obj\Debug\RPS_Game_Code.exe
+E:\Visual Studio\Git Projects\RPS_Game_Code\RPS_Game_Code\RPS_Game_Code\obj\Debug\RPS_Game_Code.pdb
